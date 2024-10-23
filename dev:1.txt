@@ -1,6 +1,7 @@
-add new line
+
 add new line
 
 add dev:1.txt
 add new line in main
-add new line in main
+
+remove all content 
